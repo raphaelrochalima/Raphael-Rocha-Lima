@@ -1,5 +1,5 @@
 # Raphael-Rocha-Lima
-Minhas informações
+Minhas informações:
 Raphael Rocha Lima
 
 Olá, eu sou o Raphael Rocha Lima, estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual. Sou apaixonado por tecnologia e programação, e estou sempre em busca de aprender novas habilidades e melhorar minhas competências.
@@ -41,6 +41,6 @@ Melhoria nas práticas de testes automatizados
 
 📫 Vamos Conectar!
 
-LinkedIn: Raphael Rocha Lima
+LinkedIn: https://www.linkedin.com/in/raphael-rocha-lima-93375b379/
 
-Email: seu-email@example.com
+Email: panga_raphael@hotmail.com
